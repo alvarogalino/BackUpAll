@@ -1,0 +1,6 @@
+C:\Users\galin\source\repos\Empresa.Proyecto\bin\Debug\Empresa.Proyecto.dll
+C:\Users\galin\source\repos\Empresa.Proyecto\bin\Debug\Empresa.Proyecto.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto\obj\Debug\Empresa.Proyecto.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Empresa.Proyecto\obj\Debug\Empresa.Proyecto.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Empresa.Proyecto\obj\Debug\Empresa.Proyecto.dll
+C:\Users\galin\source\repos\Empresa.Proyecto\obj\Debug\Empresa.Proyecto.pdb

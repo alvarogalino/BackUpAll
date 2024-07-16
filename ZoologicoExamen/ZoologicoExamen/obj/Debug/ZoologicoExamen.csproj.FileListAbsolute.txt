@@ -1,0 +1,16 @@
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\MainWindow.g.cs
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\App.g.cs
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen_MarkupCompile.cache
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen_MarkupCompile.lref
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\bin\Debug\ZoologicoExamen.exe.config
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\bin\Debug\ZoologicoExamen.exe
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\bin\Debug\ZoologicoExamen.pdb
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\MainWindow.baml
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen.g.resources
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen.Properties.Resources.resources
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen.csproj.GenerateResource.cache
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen.exe
+C:\Users\galin\source\repos\ZoologicoExamen\ZoologicoExamen\obj\Debug\ZoologicoExamen.pdb

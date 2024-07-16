@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\whilemultiplos8\whilemultiplos8\bin\Debug\whilemultiplos8.exe.config
+C:\Users\galin\source\repos\whilemultiplos8\whilemultiplos8\bin\Debug\whilemultiplos8.exe
+C:\Users\galin\source\repos\whilemultiplos8\whilemultiplos8\bin\Debug\whilemultiplos8.pdb
+C:\Users\galin\source\repos\whilemultiplos8\whilemultiplos8\obj\Debug\whilemultiplos8.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\whilemultiplos8\whilemultiplos8\obj\Debug\whilemultiplos8.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\whilemultiplos8\whilemultiplos8\obj\Debug\whilemultiplos8.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\whilemultiplos8\whilemultiplos8\obj\Debug\whilemultiplos8.exe
+C:\Users\galin\source\repos\whilemultiplos8\whilemultiplos8\obj\Debug\whilemultiplos8.pdb

@@ -1,0 +1,13 @@
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\bin\Debug\Empresa.Proyecto.Transversal.Mapper.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\bin\Debug\Empresa.Proyecto.Transversal.Mapper.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\bin\Debug\AutoMapper.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\bin\Debug\Empresa.Proyecto.Aplicacion.DTO.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\bin\Debug\Empresa.Proyecto.Domain.Entity.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\bin\Debug\Empresa.Proyecto.Aplicacion.DTO.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\bin\Debug\Empresa.Proyecto.Domain.Entity.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\bin\Debug\AutoMapper.xml
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\obj\Debug\Empresa.Proyecto.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\obj\Debug\Empresa.Proyecto.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\obj\Debug\Empresa..E79EE55E.Up2Date
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\obj\Debug\Empresa.Proyecto.Transversal.Mapper.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Transversal.Mapper\obj\Debug\Empresa.Proyecto.Transversal.Mapper.pdb

@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\navidad\navidad\bin\Debug\navidad.exe.config
+C:\Users\galin\source\repos\navidad\navidad\bin\Debug\navidad.exe
+C:\Users\galin\source\repos\navidad\navidad\bin\Debug\navidad.pdb
+C:\Users\galin\source\repos\navidad\navidad\obj\Debug\navidad.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\navidad\navidad\obj\Debug\navidad.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\navidad\navidad\obj\Debug\navidad.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\navidad\navidad\obj\Debug\navidad.exe
+C:\Users\galin\source\repos\navidad\navidad\obj\Debug\navidad.pdb

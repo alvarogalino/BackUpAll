@@ -1,0 +1,11 @@
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\bin\Debug\Empresa.Proyecto.Aplicacion.Interface.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\bin\Debug\Empresa.Proyecto.Aplicacion.Interface.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\bin\Debug\Empresa.Proyecto.Aplicacion.DTO.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\bin\Debug\Empresa.Proyecto.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\bin\Debug\Empresa.Proyecto.Aplicacion.DTO.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\bin\Debug\Empresa.Proyecto.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\obj\Debug\Empresa.Proyecto.Aplicacion.Interface.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\obj\Debug\Empresa.Proyecto.Aplicacion.Interface.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\obj\Debug\Empresa..0D42834B.Up2Date
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\obj\Debug\Empresa.Proyecto.Aplicacion.Interface.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.Interface\obj\Debug\Empresa.Proyecto.Aplicacion.Interface.pdb

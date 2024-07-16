@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "miPrimeraAplicacionWeb": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:60",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:60"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": true,
+    "anonymousAuthentication": false,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:60",
+      "sslPort": 0
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\whiledoblelista\whiledoblelista\bin\Debug\whiledoblelista.exe.config
+C:\Users\galin\source\repos\whiledoblelista\whiledoblelista\bin\Debug\whiledoblelista.exe
+C:\Users\galin\source\repos\whiledoblelista\whiledoblelista\bin\Debug\whiledoblelista.pdb
+C:\Users\galin\source\repos\whiledoblelista\whiledoblelista\obj\Debug\whiledoblelista.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\whiledoblelista\whiledoblelista\obj\Debug\whiledoblelista.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\whiledoblelista\whiledoblelista\obj\Debug\whiledoblelista.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\whiledoblelista\whiledoblelista\obj\Debug\whiledoblelista.exe
+C:\Users\galin\source\repos\whiledoblelista\whiledoblelista\obj\Debug\whiledoblelista.pdb

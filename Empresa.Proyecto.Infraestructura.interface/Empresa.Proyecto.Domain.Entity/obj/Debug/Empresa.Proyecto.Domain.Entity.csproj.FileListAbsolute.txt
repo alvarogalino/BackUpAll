@@ -1,0 +1,6 @@
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Entity\bin\Debug\Empresa.Proyecto.Domain.Entity.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Entity\bin\Debug\Empresa.Proyecto.Domain.Entity.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Entity\obj\Debug\Empresa.Proyecto.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Entity\obj\Debug\Empresa.Proyecto.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Entity\obj\Debug\Empresa.Proyecto.Domain.Entity.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Entity\obj\Debug\Empresa.Proyecto.Domain.Entity.pdb

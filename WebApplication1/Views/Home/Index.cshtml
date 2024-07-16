@@ -1,0 +1,35 @@
+﻿@model PaginaWeb1.ViewModels.ViewModelListadeTareas
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1> Hello World
+</h1>
+
+
+<table>
+
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+@*        @foreach (PaginaWeb1.Lista_de_Tareas.ListadeTareas listadeTareas in ViewBag.ListadeTareas)
+*@        
+        @foreach (PaginaWeb1.Lista_de_Tareas.ListadeTareas listadeTareas in Model.ListofTask)
+        {
+            <tr>
+                <td>@listadeTareas.ID</td>
+                <td>@listadeTareas.Name</td>
+                
+            </tr>
+
+        }
+        
+    </tbody>
+
+</table>

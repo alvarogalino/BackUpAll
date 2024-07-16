@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\menoresadiez\menoresadiez\bin\Debug\menoresadiez.exe.config
+C:\Users\galin\source\repos\menoresadiez\menoresadiez\bin\Debug\menoresadiez.exe
+C:\Users\galin\source\repos\menoresadiez\menoresadiez\bin\Debug\menoresadiez.pdb
+C:\Users\galin\source\repos\menoresadiez\menoresadiez\obj\Debug\menoresadiez.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\menoresadiez\menoresadiez\obj\Debug\menoresadiez.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\menoresadiez\menoresadiez\obj\Debug\menoresadiez.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\menoresadiez\menoresadiez\obj\Debug\menoresadiez.exe
+C:\Users\galin\source\repos\menoresadiez\menoresadiez\obj\Debug\menoresadiez.pdb

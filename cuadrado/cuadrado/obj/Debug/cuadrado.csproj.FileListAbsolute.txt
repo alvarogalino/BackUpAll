@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\cuadrado\cuadrado\bin\Debug\cuadrado.exe.config
+C:\Users\galin\source\repos\cuadrado\cuadrado\bin\Debug\cuadrado.exe
+C:\Users\galin\source\repos\cuadrado\cuadrado\bin\Debug\cuadrado.pdb
+C:\Users\galin\source\repos\cuadrado\cuadrado\obj\Debug\cuadrado.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\cuadrado\cuadrado\obj\Debug\cuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\cuadrado\cuadrado\obj\Debug\cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\cuadrado\cuadrado\obj\Debug\cuadrado.exe
+C:\Users\galin\source\repos\cuadrado\cuadrado\obj\Debug\cuadrado.pdb

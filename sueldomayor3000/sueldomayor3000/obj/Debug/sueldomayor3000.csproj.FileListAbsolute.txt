@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\sueldomayor3000\sueldomayor3000\bin\Debug\sueldomayor3000.exe.config
+C:\Users\galin\source\repos\sueldomayor3000\sueldomayor3000\bin\Debug\sueldomayor3000.exe
+C:\Users\galin\source\repos\sueldomayor3000\sueldomayor3000\bin\Debug\sueldomayor3000.pdb
+C:\Users\galin\source\repos\sueldomayor3000\sueldomayor3000\obj\Debug\sueldomayor3000.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\sueldomayor3000\sueldomayor3000\obj\Debug\sueldomayor3000.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\sueldomayor3000\sueldomayor3000\obj\Debug\sueldomayor3000.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\sueldomayor3000\sueldomayor3000\obj\Debug\sueldomayor3000.exe
+C:\Users\galin\source\repos\sueldomayor3000\sueldomayor3000\obj\Debug\sueldomayor3000.pdb

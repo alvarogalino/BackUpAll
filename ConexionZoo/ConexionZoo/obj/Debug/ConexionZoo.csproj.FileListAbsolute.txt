@@ -1,0 +1,16 @@
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\MainWindow.g.cs
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\App.g.cs
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo_MarkupCompile.cache
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo_MarkupCompile.lref
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\bin\Debug\ConexionZoo.exe.config
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\bin\Debug\ConexionZoo.exe
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\bin\Debug\ConexionZoo.pdb
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\MainWindow.baml
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo.g.resources
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo.Properties.Resources.resources
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo.csproj.GenerateResource.cache
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo.exe
+C:\Users\galin\source\repos\ConexionZoo\ConexionZoo\obj\Debug\ConexionZoo.pdb

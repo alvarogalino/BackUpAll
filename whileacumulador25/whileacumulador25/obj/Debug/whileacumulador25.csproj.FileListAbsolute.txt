@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\whileacumulador25\whileacumulador25\bin\Debug\whileacumulador25.exe.config
+C:\Users\galin\source\repos\whileacumulador25\whileacumulador25\bin\Debug\whileacumulador25.exe
+C:\Users\galin\source\repos\whileacumulador25\whileacumulador25\bin\Debug\whileacumulador25.pdb
+C:\Users\galin\source\repos\whileacumulador25\whileacumulador25\obj\Debug\whileacumulador25.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\whileacumulador25\whileacumulador25\obj\Debug\whileacumulador25.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\whileacumulador25\whileacumulador25\obj\Debug\whileacumulador25.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\whileacumulador25\whileacumulador25\obj\Debug\whileacumulador25.exe
+C:\Users\galin\source\repos\whileacumulador25\whileacumulador25\obj\Debug\whileacumulador25.pdb

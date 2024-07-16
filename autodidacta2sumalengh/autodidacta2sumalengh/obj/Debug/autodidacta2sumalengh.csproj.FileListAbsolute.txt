@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\autodidacta2sumalengh\autodidacta2sumalengh\bin\Debug\autodidacta2sumalengh.exe.config
+C:\Users\galin\source\repos\autodidacta2sumalengh\autodidacta2sumalengh\bin\Debug\autodidacta2sumalengh.exe
+C:\Users\galin\source\repos\autodidacta2sumalengh\autodidacta2sumalengh\bin\Debug\autodidacta2sumalengh.pdb
+C:\Users\galin\source\repos\autodidacta2sumalengh\autodidacta2sumalengh\obj\Debug\autodidacta2sumalengh.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\autodidacta2sumalengh\autodidacta2sumalengh\obj\Debug\autodidacta2sumalengh.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\autodidacta2sumalengh\autodidacta2sumalengh\obj\Debug\autodidacta2sumalengh.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\autodidacta2sumalengh\autodidacta2sumalengh\obj\Debug\autodidacta2sumalengh.exe
+C:\Users\galin\source\repos\autodidacta2sumalengh\autodidacta2sumalengh\obj\Debug\autodidacta2sumalengh.pdb

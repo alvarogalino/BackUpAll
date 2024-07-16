@@ -1,0 +1,380 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Services.WebApi\\Empresa.Proyecto.Services.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj",
+        "projectName": "Empresa.Proyecto.Aplicacion.DTO",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Interface\\Empresa.Proyecto.Aplicacion.Interface.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Interface\\Empresa.Proyecto.Aplicacion.Interface.csproj",
+        "projectName": "Empresa.Proyecto.Aplicacion.Interface",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Interface\\Empresa.Proyecto.Aplicacion.Interface.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Main\\Empresa.Proyecto.Aplicacion.Main.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Main\\Empresa.Proyecto.Aplicacion.Main.csproj",
+        "projectName": "Empresa.Proyecto.Aplicacion.Main",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Main\\Empresa.Proyecto.Aplicacion.Main.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Interface\\Empresa.Proyecto.Aplicacion.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Interface\\Empresa.Proyecto.Aplicacion.Interface.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Core\\Empresa.Proyecto.Domain.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Core\\Empresa.Proyecto.Domain.Core.csproj",
+        "projectName": "Empresa.Proyecto.Domain.Core",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Core\\Empresa.Proyecto.Domain.Core.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj",
+        "projectName": "Empresa.Proyecto.Domain.Entity",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj",
+        "projectName": "Empresa.Proyecto.Domain.Interface",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.Repository\\Empresa.Proyecto.Infraestructura.Repository.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.Repository\\Empresa.Proyecto.Infraestructura.Repository.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.data\\Empresa.Proyecto.Infraestructura.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.data\\Empresa.Proyecto.Infraestructura.Data.csproj",
+        "projectName": "Empresa.Proyecto.Infraestructura.Data",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.data\\Empresa.Proyecto.Infraestructura.Data.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj",
+        "projectName": "Empresa.Proyecto.Infraestructura.Interface",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.Repository\\Empresa.Proyecto.Infraestructura.Repository.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.Repository\\Empresa.Proyecto.Infraestructura.Repository.csproj",
+        "projectName": "Empresa.Proyecto.Infraestructura.Repository",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.Repository\\Empresa.Proyecto.Infraestructura.Repository.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.data\\Empresa.Proyecto.Infraestructura.Data.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.data\\Empresa.Proyecto.Infraestructura.Data.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Services.WebApi\\Empresa.Proyecto.Services.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Services.WebApi\\Empresa.Proyecto.Services.WebApi.csproj",
+        "projectName": "Empresa.Proyecto.Services.WebApi",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Services.WebApi\\Empresa.Proyecto.Services.WebApi.csproj",
+        "packagesPath": "C:\\Users\\galin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Services.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\galin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Interface\\Empresa.Proyecto.Aplicacion.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Interface\\Empresa.Proyecto.Aplicacion.Interface.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Main\\Empresa.Proyecto.Aplicacion.Main.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.Main\\Empresa.Proyecto.Aplicacion.Main.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Core\\Empresa.Proyecto.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Core\\Empresa.Proyecto.Domain.Core.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Interface\\Empresa.Proyecto.Domain.Interface.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.data\\Empresa.Proyecto.Infraestructura.Data.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.data\\Empresa.Proyecto.Infraestructura.Data.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.interface\\Empresa.Proyecto.Infraestructura.Interface.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.Repository\\Empresa.Proyecto.Infraestructura.Repository.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Infraestructura.Repository\\Empresa.Proyecto.Infraestructura.Repository.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Transversal.Mapper\\Empresa.Proyecto.Transversal.Mapper.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Transversal.Mapper\\Empresa.Proyecto.Transversal.Mapper.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Transversal.Mapper\\Empresa.Proyecto.Transversal.Mapper.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Transversal.Mapper\\Empresa.Proyecto.Transversal.Mapper.csproj",
+        "projectName": "Empresa.Proyecto.Transversal.Mapper",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Transversal.Mapper\\Empresa.Proyecto.Transversal.Mapper.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Aplicacion.DTO\\Empresa.Proyecto.Aplicacion.DTO.csproj"
+              },
+              "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto.Domain.Entity\\Empresa.Proyecto.Domain.Entity.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj",
+        "projectName": "Empresa.Proyecto.Transversal.Common",
+        "projectPath": "C:\\Users\\galin\\source\\repos\\Empresa.Proyecto\\Empresa.Proyecto.Transversal.Common.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

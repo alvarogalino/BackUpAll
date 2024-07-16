@@ -1,0 +1,9 @@
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\bin\Debug\Empresa.Proyecto.Infraestructura.@interface.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\bin\Debug\Empresa.Proyecto.Infraestructura.@interface.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\bin\Debug\Empresa.Proyecto.Domain.Entity.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\bin\Debug\Empresa.Proyecto.Domain.Entity.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\obj\Debug\Empresa.Proyecto.Infraestructura.Interface.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\obj\Debug\Empresa.Proyecto.Infraestructura.Interface.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\obj\Debug\Empresa..EC42F1F0.Up2Date
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\obj\Debug\Empresa.Proyecto.Infraestructura.@interface.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Infraestructura.interface\obj\Debug\Empresa.Proyecto.Infraestructura.@interface.pdb

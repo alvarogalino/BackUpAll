@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\ordenamiento1\ordenamiento1\bin\Debug\ordenamiento1.exe.config
+C:\Users\galin\source\repos\ordenamiento1\ordenamiento1\bin\Debug\ordenamiento1.exe
+C:\Users\galin\source\repos\ordenamiento1\ordenamiento1\bin\Debug\ordenamiento1.pdb
+C:\Users\galin\source\repos\ordenamiento1\ordenamiento1\obj\Debug\ordenamiento1.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\ordenamiento1\ordenamiento1\obj\Debug\ordenamiento1.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\ordenamiento1\ordenamiento1\obj\Debug\ordenamiento1.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\ordenamiento1\ordenamiento1\obj\Debug\ordenamiento1.exe
+C:\Users\galin\source\repos\ordenamiento1\ordenamiento1\obj\Debug\ordenamiento1.pdb

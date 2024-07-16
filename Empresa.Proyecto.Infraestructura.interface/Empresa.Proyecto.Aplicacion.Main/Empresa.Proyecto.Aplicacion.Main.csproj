@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33081A2F-A4FF-4105-957C-FD435CDE3907}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Empresa.Proyecto.Aplicacion.Main</RootNamespace>
+    <AssemblyName>Empresa.Proyecto.Aplicacion.Main</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\Empresa.Proyecto\packages\AutoMapper.10.1.1\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomersAplication.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Empresa.Proyecto.Aplicacion.DTO\Empresa.Proyecto.Aplicacion.DTO.csproj">
+      <Project>{d1efc43b-8ccd-49b3-8ae9-c023afd4f7bc}</Project>
+      <Name>Empresa.Proyecto.Aplicacion.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Empresa.Proyecto.Aplicacion.Interface\Empresa.Proyecto.Aplicacion.Interface.csproj">
+      <Project>{86df69f2-6218-4914-89f6-a63e9238f36e}</Project>
+      <Name>Empresa.Proyecto.Aplicacion.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Empresa.Proyecto.Domain.Entity\Empresa.Proyecto.Domain.Entity.csproj">
+      <Project>{18270dea-204d-4d17-9c46-829dda5a24f9}</Project>
+      <Name>Empresa.Proyecto.Domain.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Empresa.Proyecto.Domain.Interface\Empresa.Proyecto.Domain.Interface.csproj">
+      <Project>{a2c59e48-593d-4553-903b-ba4fa0f5506e}</Project>
+      <Name>Empresa.Proyecto.Domain.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Empresa.Proyecto\Empresa.Proyecto.Transversal.Common.csproj">
+      <Project>{e021d7a5-00cf-4b3e-9e80-cc6e1b8d2036}</Project>
+      <Name>Empresa.Proyecto.Transversal.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

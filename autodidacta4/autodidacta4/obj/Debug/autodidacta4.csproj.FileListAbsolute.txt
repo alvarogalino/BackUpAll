@@ -1,0 +1,8 @@
+C:\Users\galin\source\repos\autodidacta4\autodidacta4\bin\Debug\autodidacta4.exe.config
+C:\Users\galin\source\repos\autodidacta4\autodidacta4\bin\Debug\autodidacta4.exe
+C:\Users\galin\source\repos\autodidacta4\autodidacta4\bin\Debug\autodidacta4.pdb
+C:\Users\galin\source\repos\autodidacta4\autodidacta4\obj\Debug\autodidacta4.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\autodidacta4\autodidacta4\obj\Debug\autodidacta4.csproj.SuggestedBindingRedirects.cache
+C:\Users\galin\source\repos\autodidacta4\autodidacta4\obj\Debug\autodidacta4.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\autodidacta4\autodidacta4\obj\Debug\autodidacta4.exe
+C:\Users\galin\source\repos\autodidacta4\autodidacta4\obj\Debug\autodidacta4.pdb

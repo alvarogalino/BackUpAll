@@ -1,0 +1,13 @@
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\bin\Debug\Empresa.Proyecto.Domain.Core.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\bin\Debug\Empresa.Proyecto.Domain.Core.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\bin\Debug\Empresa.Proyecto.Domain.Entity.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\bin\Debug\Empresa.Proyecto.Domain.Interface.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\bin\Debug\Empresa.Proyecto.Infraestructura.@interface.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\bin\Debug\Empresa.Proyecto.Domain.Entity.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\bin\Debug\Empresa.Proyecto.Domain.Interface.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\bin\Debug\Empresa.Proyecto.Infraestructura.@interface.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\obj\Debug\Empresa.Proyecto.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\obj\Debug\Empresa.Proyecto.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\obj\Debug\Empresa..78C47985.Up2Date
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\obj\Debug\Empresa.Proyecto.Domain.Core.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Domain.Core\obj\Debug\Empresa.Proyecto.Domain.Core.pdb

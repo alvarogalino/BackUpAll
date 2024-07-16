@@ -1,0 +1,6 @@
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.DTO\bin\Debug\Empresa.Proyecto.Aplicacion.DTO.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.DTO\bin\Debug\Empresa.Proyecto.Aplicacion.DTO.pdb
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.DTO\obj\Debug\Empresa.Proyecto.Aplicacion.DTO.csproj.AssemblyReference.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.DTO\obj\Debug\Empresa.Proyecto.Aplicacion.DTO.csproj.CoreCompileInputs.cache
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.DTO\obj\Debug\Empresa.Proyecto.Aplicacion.DTO.dll
+C:\Users\galin\source\repos\Empresa.Proyecto.Aplicacion.DTO\obj\Debug\Empresa.Proyecto.Aplicacion.DTO.pdb
