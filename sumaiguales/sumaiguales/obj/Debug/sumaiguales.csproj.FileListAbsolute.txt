@@ -1,8 +1,0 @@
-C:\Users\galin\source\repos\sumaiguales\sumaiguales\bin\Debug\sumaiguales.exe.config
-C:\Users\galin\source\repos\sumaiguales\sumaiguales\bin\Debug\sumaiguales.exe
-C:\Users\galin\source\repos\sumaiguales\sumaiguales\bin\Debug\sumaiguales.pdb
-C:\Users\galin\source\repos\sumaiguales\sumaiguales\obj\Debug\sumaiguales.csproj.AssemblyReference.cache
-C:\Users\galin\source\repos\sumaiguales\sumaiguales\obj\Debug\sumaiguales.csproj.SuggestedBindingRedirects.cache
-C:\Users\galin\source\repos\sumaiguales\sumaiguales\obj\Debug\sumaiguales.csproj.CoreCompileInputs.cache
-C:\Users\galin\source\repos\sumaiguales\sumaiguales\obj\Debug\sumaiguales.exe
-C:\Users\galin\source\repos\sumaiguales\sumaiguales\obj\Debug\sumaiguales.pdb

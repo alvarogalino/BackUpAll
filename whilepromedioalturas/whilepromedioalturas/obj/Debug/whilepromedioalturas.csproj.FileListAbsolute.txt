@@ -1,8 +1,0 @@
-C:\Users\galin\source\repos\whilepromedioalturas\whilepromedioalturas\bin\Debug\whilepromedioalturas.exe.config
-C:\Users\galin\source\repos\whilepromedioalturas\whilepromedioalturas\bin\Debug\whilepromedioalturas.exe
-C:\Users\galin\source\repos\whilepromedioalturas\whilepromedioalturas\bin\Debug\whilepromedioalturas.pdb
-C:\Users\galin\source\repos\whilepromedioalturas\whilepromedioalturas\obj\Debug\whilepromedioalturas.csproj.AssemblyReference.cache
-C:\Users\galin\source\repos\whilepromedioalturas\whilepromedioalturas\obj\Debug\whilepromedioalturas.csproj.SuggestedBindingRedirects.cache
-C:\Users\galin\source\repos\whilepromedioalturas\whilepromedioalturas\obj\Debug\whilepromedioalturas.csproj.CoreCompileInputs.cache
-C:\Users\galin\source\repos\whilepromedioalturas\whilepromedioalturas\obj\Debug\whilepromedioalturas.exe
-C:\Users\galin\source\repos\whilepromedioalturas\whilepromedioalturas\obj\Debug\whilepromedioalturas.pdb

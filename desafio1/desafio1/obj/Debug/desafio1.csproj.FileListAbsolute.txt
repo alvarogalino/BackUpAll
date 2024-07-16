@@ -1,8 +1,0 @@
-C:\Users\galin\source\repos\desafio1\desafio1\bin\Debug\desafio1.exe.config
-C:\Users\galin\source\repos\desafio1\desafio1\bin\Debug\desafio1.exe
-C:\Users\galin\source\repos\desafio1\desafio1\bin\Debug\desafio1.pdb
-C:\Users\galin\source\repos\desafio1\desafio1\obj\Debug\desafio1.csproj.AssemblyReference.cache
-C:\Users\galin\source\repos\desafio1\desafio1\obj\Debug\desafio1.csproj.SuggestedBindingRedirects.cache
-C:\Users\galin\source\repos\desafio1\desafio1\obj\Debug\desafio1.csproj.CoreCompileInputs.cache
-C:\Users\galin\source\repos\desafio1\desafio1\obj\Debug\desafio1.exe
-C:\Users\galin\source\repos\desafio1\desafio1\obj\Debug\desafio1.pdb

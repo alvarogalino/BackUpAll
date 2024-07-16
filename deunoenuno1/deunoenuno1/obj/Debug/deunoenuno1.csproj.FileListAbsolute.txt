@@ -1,8 +1,0 @@
-C:\Users\galin\source\repos\deunoenuno1\deunoenuno1\bin\Debug\deunoenuno1.exe.config
-C:\Users\galin\source\repos\deunoenuno1\deunoenuno1\bin\Debug\deunoenuno1.exe
-C:\Users\galin\source\repos\deunoenuno1\deunoenuno1\bin\Debug\deunoenuno1.pdb
-C:\Users\galin\source\repos\deunoenuno1\deunoenuno1\obj\Debug\deunoenuno1.csproj.AssemblyReference.cache
-C:\Users\galin\source\repos\deunoenuno1\deunoenuno1\obj\Debug\deunoenuno1.csproj.SuggestedBindingRedirects.cache
-C:\Users\galin\source\repos\deunoenuno1\deunoenuno1\obj\Debug\deunoenuno1.csproj.CoreCompileInputs.cache
-C:\Users\galin\source\repos\deunoenuno1\deunoenuno1\obj\Debug\deunoenuno1.exe
-C:\Users\galin\source\repos\deunoenuno1\deunoenuno1\obj\Debug\deunoenuno1.pdb

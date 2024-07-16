@@ -1,8 +1,0 @@
-C:\Users\galin\source\repos\whileImparPar\whileImparPar\bin\Debug\whileImparPar.exe.config
-C:\Users\galin\source\repos\whileImparPar\whileImparPar\bin\Debug\whileImparPar.exe
-C:\Users\galin\source\repos\whileImparPar\whileImparPar\bin\Debug\whileImparPar.pdb
-C:\Users\galin\source\repos\whileImparPar\whileImparPar\obj\Debug\whileImparPar.csproj.AssemblyReference.cache
-C:\Users\galin\source\repos\whileImparPar\whileImparPar\obj\Debug\whileImparPar.csproj.SuggestedBindingRedirects.cache
-C:\Users\galin\source\repos\whileImparPar\whileImparPar\obj\Debug\whileImparPar.csproj.CoreCompileInputs.cache
-C:\Users\galin\source\repos\whileImparPar\whileImparPar\obj\Debug\whileImparPar.exe
-C:\Users\galin\source\repos\whileImparPar\whileImparPar\obj\Debug\whileImparPar.pdb

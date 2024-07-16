@@ -1,8 +1,0 @@
-C:\Users\galin\source\repos\calificaciones\calificaciones\bin\Debug\calificaciones.exe.config
-C:\Users\galin\source\repos\calificaciones\calificaciones\bin\Debug\calificaciones.exe
-C:\Users\galin\source\repos\calificaciones\calificaciones\bin\Debug\calificaciones.pdb
-C:\Users\galin\source\repos\calificaciones\calificaciones\obj\Debug\calificaciones.csproj.AssemblyReference.cache
-C:\Users\galin\source\repos\calificaciones\calificaciones\obj\Debug\calificaciones.csproj.SuggestedBindingRedirects.cache
-C:\Users\galin\source\repos\calificaciones\calificaciones\obj\Debug\calificaciones.csproj.CoreCompileInputs.cache
-C:\Users\galin\source\repos\calificaciones\calificaciones\obj\Debug\calificaciones.exe
-C:\Users\galin\source\repos\calificaciones\calificaciones\obj\Debug\calificaciones.pdb

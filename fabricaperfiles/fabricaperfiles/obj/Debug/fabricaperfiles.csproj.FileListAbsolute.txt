@@ -1,8 +1,0 @@
-C:\Users\galin\source\repos\fabricaperfiles\fabricaperfiles\bin\Debug\fabricaperfiles.exe.config
-C:\Users\galin\source\repos\fabricaperfiles\fabricaperfiles\bin\Debug\fabricaperfiles.exe
-C:\Users\galin\source\repos\fabricaperfiles\fabricaperfiles\bin\Debug\fabricaperfiles.pdb
-C:\Users\galin\source\repos\fabricaperfiles\fabricaperfiles\obj\Debug\fabricaperfiles.csproj.AssemblyReference.cache
-C:\Users\galin\source\repos\fabricaperfiles\fabricaperfiles\obj\Debug\fabricaperfiles.csproj.SuggestedBindingRedirects.cache
-C:\Users\galin\source\repos\fabricaperfiles\fabricaperfiles\obj\Debug\fabricaperfiles.csproj.CoreCompileInputs.cache
-C:\Users\galin\source\repos\fabricaperfiles\fabricaperfiles\obj\Debug\fabricaperfiles.exe
-C:\Users\galin\source\repos\fabricaperfiles\fabricaperfiles\obj\Debug\fabricaperfiles.pdb

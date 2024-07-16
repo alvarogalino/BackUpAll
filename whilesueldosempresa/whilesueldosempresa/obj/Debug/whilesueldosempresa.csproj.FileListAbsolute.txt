@@ -1,8 +1,0 @@
-C:\Users\galin\source\repos\whilesueldosempresa\whilesueldosempresa\bin\Debug\whilesueldosempresa.exe.config
-C:\Users\galin\source\repos\whilesueldosempresa\whilesueldosempresa\bin\Debug\whilesueldosempresa.exe
-C:\Users\galin\source\repos\whilesueldosempresa\whilesueldosempresa\bin\Debug\whilesueldosempresa.pdb
-C:\Users\galin\source\repos\whilesueldosempresa\whilesueldosempresa\obj\Debug\whilesueldosempresa.csproj.AssemblyReference.cache
-C:\Users\galin\source\repos\whilesueldosempresa\whilesueldosempresa\obj\Debug\whilesueldosempresa.csproj.SuggestedBindingRedirects.cache
-C:\Users\galin\source\repos\whilesueldosempresa\whilesueldosempresa\obj\Debug\whilesueldosempresa.csproj.CoreCompileInputs.cache
-C:\Users\galin\source\repos\whilesueldosempresa\whilesueldosempresa\obj\Debug\whilesueldosempresa.exe
-C:\Users\galin\source\repos\whilesueldosempresa\whilesueldosempresa\obj\Debug\whilesueldosempresa.pdb
